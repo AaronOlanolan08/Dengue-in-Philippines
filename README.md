@@ -112,7 +112,7 @@ Alternative Hypothesis (H1): There is a significant difference in the average nu
 One-way ANOVA results.
 
 
-| Test Statistic (F)  |     Pollution index     |
+| Test Statistic (F)  |         P-value         |
 | --------------------| ------------------------|
 |       12.56         |      1.69×10^−22        | 
 
